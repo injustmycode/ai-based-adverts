@@ -46,7 +46,7 @@ Step 1 : Cloning the Project
 ----------------------------
 on Hikey970 run command to clone this project
 ```
-$ git clone https://github.com/shunyaos/ai-based-adverts.git
+$ git clone https://github.com/injustmycode/ai-based-adverts.git
 ```
 Step 2: Starting the Demo on Hikey970
 -------------------------------------
